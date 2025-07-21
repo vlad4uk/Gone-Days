@@ -5,4 +5,4 @@
 ## Установка
 
 --bash
-go get github.com/yourname/Gone-Days
+go get github.com/vlad4uk/Gone-Days
